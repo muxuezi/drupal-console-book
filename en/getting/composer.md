@@ -15,7 +15,7 @@ composer require drupal/console:~1.0 \
 If you install Drupal Console Using Composer on Docksal, execute following command firstly:
 
 ```
-fin exec git --global core.filemode false
+fin exec git config --global core.filemode false
 ```
 
 ## Download using DrupalComposer project template
